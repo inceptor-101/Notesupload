@@ -1,0 +1,30 @@
+[33mWARNING[0m:  [21-01-2024 19:39:42] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [21-01-2024 19:39:43] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [21-01-2024 19:39:43] Starting component System
+[36mDEBUG[0m:    [21-01-2024 19:39:43] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [21-01-2024 19:39:43] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [21-01-2024 19:39:43] Starting component SqliteDB
+[36mDEBUG[0m:    [21-01-2024 19:39:43] Starting component Posthog
+[36mDEBUG[0m:    [21-01-2024 19:39:43] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [21-01-2024 19:39:43] Starting component SegmentAPI
+[32mINFO[0m:     [21-01-2024 19:39:43] Started server process [[36m21960[0m]
+[32mINFO[0m:     [21-01-2024 19:39:43] Waiting for application startup.
+[32mINFO[0m:     [21-01-2024 19:39:43] Application startup complete.
+[32mINFO[0m:     [21-01-2024 19:39:43] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [21-01-2024 19:46:10] Shutting down
+[32mINFO[0m:     [21-01-2024 19:46:10] Waiting for application shutdown.
+[32mINFO[0m:     [21-01-2024 19:46:10] Application shutdown complete.
+[32mINFO[0m:     [21-01-2024 19:46:10] Finished server process [[36m21960[0m]
+[33mWARNING[0m:  [21-01-2024 22:42:40] chroma_server_nofile is not supported on Windows. chroma_server_nofile will not be set.
+[32mINFO[0m:     [21-01-2024 22:42:41] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [21-01-2024 22:42:41] Starting component System
+[36mDEBUG[0m:    [21-01-2024 22:42:41] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [21-01-2024 22:42:41] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [21-01-2024 22:42:41] Starting component SqliteDB
+[36mDEBUG[0m:    [21-01-2024 22:42:41] Starting component Posthog
+[36mDEBUG[0m:    [21-01-2024 22:42:41] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [21-01-2024 22:42:41] Starting component SegmentAPI
+[32mINFO[0m:     [21-01-2024 22:42:41] Started server process [[36m12376[0m]
+[32mINFO[0m:     [21-01-2024 22:42:41] Waiting for application startup.
+[32mINFO[0m:     [21-01-2024 22:42:41] Application startup complete.
+[32mINFO[0m:     [21-01-2024 22:42:41] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
